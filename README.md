@@ -1,2 +1,4 @@
 # myproject
-it is my secont repo
+it is my second repo
+Author - Rajnish Kumar Yadav
+
